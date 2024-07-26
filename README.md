@@ -1,4 +1,4 @@
-Clone the Repository\n
+Clone the Repository
 Run the snakeGame.py file
 Play the game!
 
